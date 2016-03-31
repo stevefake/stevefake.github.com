@@ -3,7 +3,7 @@
 permalink: /:categories/:year/:month/:day/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-highlighter: pygments
+highlighter: rouge
 
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
@@ -14,7 +14,7 @@ author : Steve
   name : Steve Fake
   email : steven.m.fake@gmail.com
   github : stevefake
-  twitter : @stevenfake
+  twitter :
   feedburner :
 
 # The production_url is only used when full-domain names are needed
@@ -119,7 +119,7 @@ JB :
   # Set 'provider' to false to turn sharing off globally.
   #
   sharing :
-    provider : false
+    provider : tweet
 
   # Settings for all other include helpers can be defined by creating
   # a hash with key named for the given helper. ex:
