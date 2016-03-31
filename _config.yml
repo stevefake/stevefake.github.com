@@ -10,8 +10,8 @@ highlighter: rouge
 #
 title: Codependency
 tagline: Thoughts on coding
-author: Steve Fake
-  name: Steve
+author:
+  name: Steve Fake
   email: steven.m.fake@gmail.com
   github: stevefake
   twitter:
