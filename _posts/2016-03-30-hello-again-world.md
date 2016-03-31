@@ -3,7 +3,7 @@ layout: post
 title: "Sandi Metz"
 description: ""
 category:
-tags: []
+tags: [Sandi Metz]
 ---
 {% include JB/setup %}
 
