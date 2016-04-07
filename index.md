@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World?
-tagline: Supporting tagline
+title: Hello World -ish?
+tagline: Supporting tagline or something
 ---
 {% include JB/setup %}
 
@@ -13,7 +13,7 @@ Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllb
 
 In `_config.yml` remember to specify your own data:
 
-    title : My Blog =)
+    title : A blog by someone?
 
     author :
       name : Steve Fake
